@@ -11,7 +11,7 @@ To get a copy of this landing page up and running on your local machine, you can
 
 ## Clone the repository:
 ```
-git clone <repository-url>
+git clone https://github.com/anvesha09/OCTANET_APRIL.git
 Navigate to the project directory:
 cd landing-page
 ```
